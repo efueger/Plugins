@@ -8,3 +8,4 @@ addons:
         repo_token: 574128bcd57229e10d33a9b2d28952a9e8041db8e58c629b2f493e03c2ac9b38
 after_success:
   - vendor/bin/test-reporter
+
